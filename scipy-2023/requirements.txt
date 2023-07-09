@@ -5,7 +5,7 @@ flytekitplugins-pandera
 flytekitplugins-spark
 flytekitplugins-whylogs
 flytekit==1.7.1b1
-grpcio==1.51.3
+grpcio==1.53.0
 ipykernel
 joblib
 modin
